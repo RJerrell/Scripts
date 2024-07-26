@@ -1,0 +1,18 @@
+﻿New-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46Common\KC46Common.psd1" -Author "Roger A. Jerrell 1641883" -CompanyName "The Boeing Company" -RootModule "KC46Common.psm1" -Description "Contains all the common functions used in processing S1000D"
+New-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46CertificationVerification\KC46CertificationVerification.psd1" -Author "Roger A. Jerrell 1641883" -CompanyName "The Boeing Company" -RootModule "KC46CertificationVerification.psm1" -Description "Contains all the common functions used in processing The USAF Spreadsheet we give them  every 120 days" -FunctionsToExport "Reset-AllVerficationTags, Get-AllCVStatus"
+New-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46CSDBManager\KC46CSDBManager.psd1" -Author "Roger A. Jerrell 1641883" -CompanyName "The Boeing Company" -RootModule "KC46CSDBManager.psm1" -Description "Contains all the common functions used in processing inbound DDN files from our data souce suppliers"
+New-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46DataConversion\KC46DataConversion.psd1" -Author "Roger A. Jerrell 1641883" -CompanyName "The Boeing Company" -RootModule "KC46DataConversion.psm1" -Description "Contains all the common functions used in distributing inbound S1000D data"
+New-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46DataConversion\KC46DataConversionS1000D401Router\KC46DataConversionS1000D401Router.psd1" -Author "Roger A. Jerrell 1641883" -CompanyName "The Boeing Company" -RootModule "KC46DataConversionS1000D401Router.psm1" -Description "Contains all the common functions used in converting SGML to S1000D for the SWPM manual"
+New-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46DataDistribution\KC46DataDistribution.psd1" -Author "Roger A. Jerrell 1641883" -CompanyName "The Boeing Company" -RootModule "KC46DataDistribution.psm1" -Description "Contains all the common functions used in distribution of inbound S1000D into the production CSDB"
+New-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46DataManagement\KC46DataManagement.psd1" -Author "Roger A. Jerrell 1641883" -CompanyName "The Boeing Company" -RootModule "KC46DataManagement.psm1" -Description "Contains all the common functions used in managing data in the build process for the IETM" 
+New-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46S1000DRules\KC46S1000DRules.psd1" -Author "Roger A. Jerrell 1641883" -CompanyName "The Boeing Company" -RootModule "KC46S1000DRules.psm1" -Description "Contains all the common functions used in enforcing all the S1000D business rules for the Tanker"
+cls
+
+Test-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46Common\KC46Common.psd1" -ErrorAction Stop
+Test-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46CertificationVerification\KC46CertificationVerification.psd1"  -ErrorAction Stop
+Test-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46CSDBManager\KC46CSDBManager.psd1" -ErrorAction Stop
+Test-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46DataConversion\KC46DataConversion.psd1" -ErrorAction Stop
+Test-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46DataConversion\KC46DataConversionS1000D401Router\KC46DataConversionS1000D401Router.psd1" -ErrorAction Stop
+Test-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46DataDistribution\KC46DataDistribution.psd1"  -ErrorAction Stop
+Test-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46DataManagement\KC46DataManagement.psd1" -ErrorAction Stop
+Test-ModuleManifest -Path "C:\KC46 Staging\Scripts\Modules\KC46S1000DRules\KC46S1000DRules.psd1" -ErrorAction Stop

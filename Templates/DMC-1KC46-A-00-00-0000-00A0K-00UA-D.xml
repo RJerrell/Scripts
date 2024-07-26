@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Arbortext, Inc., 1988-2010, v.4002-->
+<dmodule xsi:noNamespaceSchemaLocation="http://www.s1000d.org/S1000D_4-0-1/xml_schema_flat/descript.xsd" xmlns:dc="http://www.purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<identAndStatusSection>
+		<dmAddress>
+			<dmIdent>
+				<dmCode assyCode="0000" disassyCode="00" disassyCodeVariant="A0K" infoCode="00U" infoCodeVariant="A" itemLocationCode="D" modelIdentCode="1KC46" subSubSystemCode="0" subSystemCode="0" systemCode="00" systemDiffCode="A" />
+				<language countryIsoCode="US" languageIsoCode="sx" />
+				<issueInfo inWork="00" issueNumber="001" />
+			</dmIdent>
+			<dmAddressItems>
+				<issueDate day="" month="" year="" />
+				<dmTitle>
+					<techName>IETM - Aircraft Cross Servicing Guide Highlights</techName>
+					<infoName>Change Records</infoName>
+				</dmTitle>
+			</dmAddressItems>
+		</dmAddress>
+		<dmStatus issueType="new">
+			<security securityClassification="01" />
+			<dataRestrictions>
+				<restrictionInstructions>
+					<dataDistribution>Distribution Statement “D” - Distribution authorized to the Department of Defense and U.S. DoD contractors only (U.S. DoD contractors must be qualified with assigned duties in direct support of the KC-46 Tanker Modernization Directorate IAW AFI 61-204 AFGM2 and comply with all applicable contractual license requirements); (Administrative or Operational Use) (20 February 2014). Other requests for this document shall be referred to KC-46 Tanker Modernization Directorate, 2590 Loop Road West, WPAFB, OH 45433-7142.</dataDistribution>
+					<exportControl>
+						<exportRegistrationStmt>
+							<simplePara>WARNING –This document contains technical data whose export is restricted by the Arms Export Control Act (Title 22, U.S.C., Sec 2751 et seq) or the Export Administration Act of 1979, as amended, Title 50, U.S.C., App. 2401 et seq. Violations of these export laws are subject to severe criminal penalties. Disseminate in accordance with provisions of DoD Directive 5230.25</simplePara>
+						</exportRegistrationStmt>
+					</exportControl>
+					<dataHandling />
+					<dataDestruction>DESTRUCTION NOTICE – Destroy by any method that will prevent disclosure of contents or reconstruction of the document.</dataDestruction>
+				</restrictionInstructions>
+				<restrictionInfo>
+					<copyright>
+						<copyrightPara>Copyright © 1981-2016 Boeing. All Rights Reserved. Unpublished Work.</copyrightPara>
+						<copyrightPara>Non-USG recipients may use and disclose only as authorized by Boeing or the U.S. Government.</copyrightPara>
+					</copyright>
+					<dataConds>OMIT LICENSE – ATTACHMENT 23A Contract No.: FA8625-11-C-6600 The information contained herein is Boeing Commercial Proprietary Information unless otherwise indicated. The Government’s rights to use, modify, reproduce, release, perform, display, or disclose these data or software are restricted by Contract No. FA8625-11-C-6600, Attachment 23A. Any reproduction of data, computer software or computer software documentation or portions thereof marked with this legend must also reproduce the markings.</dataConds>
+				</restrictionInfo>
+			</dataRestrictions>
+			<responsiblePartnerCompany enterpriseCode="80049">
+				<enterpriseName>Headquarters, Department of The Air Force</enterpriseName>
+			</responsiblePartnerCompany>
+			<originator enterpriseCode="81205"/>
+			<applicCrossRefTableRef>
+				<dmRef>
+					<dmRefIdent>
+						<dmCode assyCode="0000" disassyCode="05" disassyCodeVariant="A0Z" infoCode="00W" infoCodeVariant="A" itemLocationCode="D" modelIdentCode="1KC46" subSubSystemCode="0" subSystemCode="0" systemCode="00" systemDiffCode="A" />
+					</dmRefIdent>
+				</dmRef>
+			</applicCrossRefTableRef>
+			<applic>
+				<displayText>
+					<simplePara>ALL</simplePara>
+				</displayText>
+			</applic>
+			<brexDmRef>
+				<dmRef>
+					<dmRefIdent>
+						<dmCode assyCode="0000" disassyCode="00" disassyCodeVariant="A0Z" infoCode="022" infoCodeVariant="A" itemLocationCode="D" modelIdentCode="1KC46" subSubSystemCode="0" subSystemCode="0" systemCode="00" systemDiffCode="A" />
+					</dmRefIdent>
+				</dmRef>
+			</brexDmRef>
+			<qualityAssurance>
+				<unverified />
+			</qualityAssurance>
+			<remarks>
+				<simplePara>dmtype:Description</simplePara>
+			</remarks>
+		</dmStatus>
+	</identAndStatusSection>
+	<content>
+		<description><levelledPara>
+		
+		<title>IETM Release Highlights</title>
+			<table></table>
+		</levelledPara>
+		</description>
+	</content>
+</dmodule>

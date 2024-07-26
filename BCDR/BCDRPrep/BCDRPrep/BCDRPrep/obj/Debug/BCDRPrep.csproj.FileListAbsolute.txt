@@ -1,0 +1,10 @@
+C:\KC46 Staging\Scripts\BCDR\BCDRPrep\BCDRPrep\BCDRPrep\bin\Debug\BCDRPrep.exe.config
+C:\KC46 Staging\Scripts\BCDR\BCDRPrep\BCDRPrep\BCDRPrep\bin\Debug\BCDRPrep.exe
+C:\KC46 Staging\Scripts\BCDR\BCDRPrep\BCDRPrep\BCDRPrep\bin\Debug\BCDRPrep.pdb
+C:\KC46 Staging\Scripts\BCDR\BCDRPrep\BCDRPrep\BCDRPrep\obj\Debug\BCDRPrep.csprojResolveAssemblyReference.cache
+C:\KC46 Staging\Scripts\BCDR\BCDRPrep\BCDRPrep\BCDRPrep\obj\Debug\BCDRPrep.Form1.resources
+C:\KC46 Staging\Scripts\BCDR\BCDRPrep\BCDRPrep\BCDRPrep\obj\Debug\BCDRPrep.Properties.Resources.resources
+C:\KC46 Staging\Scripts\BCDR\BCDRPrep\BCDRPrep\BCDRPrep\obj\Debug\BCDRPrep.csproj.GenerateResource.Cache
+C:\KC46 Staging\Scripts\BCDR\BCDRPrep\BCDRPrep\BCDRPrep\obj\Debug\BCDRPrep.csproj.CoreCompileInputs.cache
+C:\KC46 Staging\Scripts\BCDR\BCDRPrep\BCDRPrep\BCDRPrep\obj\Debug\BCDRPrep.exe
+C:\KC46 Staging\Scripts\BCDR\BCDRPrep\BCDRPrep\BCDRPrep\obj\Debug\BCDRPrep.pdb

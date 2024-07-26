@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+    <Snippets  xmlns="http://schemas.microsoft.com/PowerShell/Snippets"> 
+        <Snippet Version="1.0.0"> 
+            <Header> 
+                <Title>KC46 - New S1000D Script</Title> 
+                <Description>Adds a basic script with all the trappings needed to managed an S1000D object set.</Description> 
+                <Author>Roger Jerrell</Author> 
+                <SnippetTypes> 
+                    <SnippetType>Expansion</SnippetType> 
+                </SnippetTypes> 
+            </Header>
+
+            <Code> 
+                <Script Language="PowerShell" CaretOffset="445"> 
+                    <![CDATA[
+CLS
+$ErrorActionPreference = "Stop"
+$error.Clear()
+$env:PSModulePath = "C:\Program Files (x86)\PowerShell Community Extensions\Pscx3\;C:\Windows\system32\WindowsPowerShell\v1.0\Modules\;C:\KC46 Staging\Scripts\Modules;"
+Import-Module -Name "KC46Common" -Verbose -Force					
+# Include all common variables
+. 'C:\KC46 Staging\Scripts\Common\KC46CommonVariables.ps1'
+# ********************************************************************
+
+
+
+# ********************************************************************
+$ed = Get-Date
+$x = $ed.Subtract($sd)					
+"`r`nTotal Time to complete:`t" + $x.Hours + ":" + $x.Minutes + ":" +  $x.Seconds  + ":" +  $x.Milliseconds
+"Process completed"					
+					]]> 
+                </Script> 
+            </Code>
+    </Snippet> 
+</Snippets>

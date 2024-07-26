@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dml [
+]>
+<dml xsi:noNamespaceSchemaLocation="http://www.s1000d.org/S1000D_4-0-1/xml_schema_flat/dml.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<identAndStatusSection>
+		<dmlAddress>
+			<dmlIdent>
+				<dmlCode dmlType="p" modelIdentCode="1KC46" senderIdent="AAA0##bookLetter##" seqNumber="##seqNumber##" yearOfDataIssue="##yearOfDataIssue##"/>
+				<issueInfo inWork="00" issueNumber="001"/>
+			</dmlIdent>
+			<dmlAddressItems>
+				<issueDate year="##yearOfDataIssue##" month="##month##" day="##day##"/>
+			</dmlAddressItems>
+		</dmlAddress>
+		<dmlStatus issueType="new">
+			<security securityClassification="01" commercialClassification="cc52"/>
+		</dmlStatus>
+	</identAndStatusSection>
+	<dmlContent>
+	
+	</dmlContent>
+</dml>

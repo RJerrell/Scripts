@@ -1,0 +1,187 @@
+[INFO] ********************************************
+[INFO] XML Input Directory   : F:\LiveContentData\source\KC46\source_xml\
+[INFO] PDOM Output Directory : F:\LiveContentData\publications\WIRING\
+[INFO] PDOM Output File      : WIRING
+[INFO] DTD Type              : S1000D
+[INFO] ********************************************
+[INFO] Parsing process started on 11.19.2018 at 12:29:50 PM
+[INFO] Software Version:    N/A
+[INFO] Software Build Date: N/A
+[INFO] Searching for XML documents S1000D...
+[INFO] Operation completed in 3097 seconds.
+[INFO] Parsing XML document into PDOM structure...
+[INFO] Destination: F:\LiveContentData\publications\WIRING\WIRING.001
+[INFO] Operation completed in 28 seconds.
+[INFO] Adding EID and LASTEID attributes for F:\LiveContentData\publications\WIRING\WIRING.001
+[INFO] Operation completed in 37 seconds.
+[INFO] Building special TOC PDOM...
+[INFO] Adding EID and LASTEID attributes for F:\LiveContentData\publications\WIRING\toc.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Adding TOCREFID attribute...
+[INFO] Operation completed in 2601 seconds.
+[INFO] ** Total number of systems: 687
+[INFO] Operation completed in 2781 seconds.
+[INFO] Building special Activity PDOM...
+[INFO] Adding EID and LASTEID attributes for F:\LiveContentData\publications\WIRING\activity.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Adding ACTREFID attribute...
+[INFO] Operation completed in 2542 seconds.
+[INFO] ** Total number of documents: 54726
+[INFO] Operation completed in 2696 seconds.
+[INFO] Building special Figures PDOM...
+[INFO] Adding EID and LASTEID attributes for F:\LiveContentData\publications\WIRING\figures.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Adding FIGREFID attribute...
+[INFO] Operation completed in 3 seconds.
+[INFO] ** Total number of figures: 9171
+[INFO] Operation completed in 138 seconds.
+[INFO] Building special Tables PDOM...
+[INFO] Adding EID and LASTEID attributes for F:\LiveContentData\publications\WIRING\tables.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Adding TABREFID attribute...
+[INFO] Operation completed in 5304 seconds.
+[INFO] ** Total number of tables: 62234
+[INFO] Operation completed in 5321 seconds.
+[INFO] Building Document Index PDOM...
+[INFO] ** Total number of index elements: 54726
+[INFO] Operation completed in 46 seconds.
+[INFO] Sorting the INDEX vector ...
+[INFO] Operation completed in 0 seconds.
+[INFO] Building Document Index Tree PDOM...
+[INFO] Operation completed in 0 seconds.
+[INFO] Building SYSTEM level index...
+[INFO] Operation completed in 0 seconds.
+[INFO] Building TOPIC level index...
+[INFO] Operation completed in 7 seconds.
+[INFO] Running custom search handlers...
+[INFO] Operation completed in 315 seconds.
+[INFO] Adding RefDm information...
+[INFO] ** Total number of references: 0
+[INFO] Operation completed in 23 seconds.
+[INFO] Building invalid xref report PDOM...
+[INFO] ** Total number of invalid xrefs: 0
+[INFO] Operation completed in 22 seconds.
+[INFO] Building invalid xref report PDOM...
+[INFO] Building image report PDOM...
+[INFO] ** Total number of images: 12639
+[INFO] Operation completed in 14 seconds.
+[INFO] Building Source Data Incorporated PDOM...
+[INFO] Sorting change reasons ...
+[INFO] Building Source PDOM...
+[INFO] Operation completed in 0 seconds.
+[INFO] File F:\LiveContentData\publications\WIRING\multisheetipbgroup.pdm was not deleted
+[INFO] File F:\LiveContentData\publications\WIRING\multisheetipbgroup.xml was not deleted
+[INFO] Building multiGraphics report PDOM...
+[INFO] Operation completed in 2 seconds.
+[INFO] Building WCN level index PDOM...
+[INFO] Operation completed in 25 seconds.
+[INFO] Building AcronList PDOM...
+[INFO] Building Document Duplicate Index PDOM...
+[INFO] Operation completed in 0 seconds.
+[INFO] Total execution time for parser stage 14597 seconds.
+[INFO] Cleaning up PDM data files ...
+[INFO] Deleting F:\LiveContentData\publications\WIRING\WIRING.001
+[INFO] Deleting F:\LiveContentData\publications\WIRING\WIRING.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\toc.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\activity.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\figures.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\tables.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\indexdoc.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\index.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\system.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\topic.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\ipc.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\docidx.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wiredata.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\fault.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwtitle.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwtpctitle.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwfgrtitle.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwtbltitle.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwpartpnr.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwpartmfc.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwpartdfp.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwwirenum.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwwiredes.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwfaultcode.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwfaulttitle.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wwdocidx.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\dxrefidx.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\images.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\source.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\ipbfig.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\wcn.pdm
+[INFO] Deleting F:\LiveContentData\publications\WIRING\dupindex.pdm
+[INFO] Writing F:\LiveContentData\publications\WIRING\WIRING.001
+[INFO] Operation completed in 93 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\WIRING.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\toc.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\activity.pdm
+[INFO] Operation completed in 1 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\figures.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\tables.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\indexdoc.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\index.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\system.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\topic.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\ipc.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\docidx.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wiredata.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\fault.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwtitle.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwtpctitle.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwfgrtitle.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwtbltitle.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwpartpnr.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwpartmfc.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwpartdfp.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwwirenum.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwwiredes.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwfaultcode.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwfaulttitle.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wwdocidx.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\dxrefidx.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\images.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\source.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\ipbfig.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\wcn.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing F:\LiveContentData\publications\WIRING\dupindex.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Done in 31 ms
+[INFO] WIRING.001 is done: processed 496325 KB/sec, total time=1sec
+[INFO] Creating index: FULLTEXT
+[INFO] Added index in 40 sec
+[INFO] Total execution time for compression stage 141 seconds.
+[INFO] *******************************************
+[INFO] Parsing process completed on 11.19.2018 at 04:35:30 PM
+[INFO] Duration 14740 sec.
+[INFO] *******************************************

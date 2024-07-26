@@ -1,0 +1,202 @@
+[INFO] ********************************************
+[INFO] XML Input Directory   : C:\LiveContentData\source\KC46\source_xml\
+[INFO] PDOM Output Directory : C:\LiveContentData\publications\KC46\
+[INFO] PDOM Output File      : KC46
+[INFO] DTD Type              : S1000D
+[INFO] ********************************************
+[INFO] Parsing process started on 01.25.2016 at 03:32:36 PM
+[INFO] Software Version:    N/A
+[INFO] Software Build Date: N/A
+[INFO] Searching for XML Documents S1000D...
+[WARN] Missing pm file for code 1KC46-81205-H1000-01
+[WARN] Missing pm file for code 1KC46-81205-A0000-00
+[WARN] Missing pm file for code 1KC46-81205-E0000-00
+[WARN] Missing pm file for code 1KC46-81205-F0000-00
+[WARN] Missing pm file for code 1KC46-81205-P0004-00
+[WARN] Missing pm file for code 1KC46-81205-D2000-01
+[WARN] Missing pm file for code 1KC46-81205-N0000-01
+[WARN] Missing pm file for code 1KC46-81205-J0000-01
+[WARN] Missing pm file for code 1KC46-81205-V0000-00
+[WARN] Missing pm file for code 1KC46-81205-U0000-01
+[WARN] Missing pm file for code 1KC46-81205-S0000-00
+[WARN] Missing pm file for code 1KC46-81205-R0000-00
+[WARN] Missing pm file for code 1KC46-81205-T0000-00
+[WARN] Missing pm file for code 1KC46-81205-W0000-00
+[WARN] Missing pm file for code 1KC46-81205-D1000-01
+[INFO] Operation completed in 3 seconds.
+[INFO] Parsing XML Document into PDOM structure...
+[INFO] Destination: C:\LiveContentData\publications\KC46\KC46.001
+[INFO] Operation completed in 0 seconds.
+[INFO] Adding EID and LASTEID attributes for C:\LiveContentData\publications\KC46\KC46.001
+[INFO] Operation completed in 0 seconds.
+[INFO] Building special TOC PDOM...
+[INFO] Adding EID and LASTEID attributes for C:\LiveContentData\publications\KC46\toc.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Adding TOCREFID attribute...
+[INFO] Operation completed in 0 seconds.
+[INFO] ** Total number of systems: 22
+[INFO] Operation completed in 1 seconds.
+[INFO] Building special Activity PDOM...
+[INFO] Adding EID and LASTEID attributes for C:\LiveContentData\publications\KC46\activity.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Adding ACTREFID attribute...
+[INFO] Operation completed in 0 seconds.
+[INFO] ** Total number of Documents: 29
+[INFO] Operation completed in 0 seconds.
+[INFO] Building special Figures PDOM...
+[INFO] Adding EID and LASTEID attributes for C:\LiveContentData\publications\KC46\figures.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Adding FIGREFID attribute...
+[INFO] Operation completed in 0 seconds.
+[INFO] ** Total number of figures: 0
+[INFO] Operation completed in 0 seconds.
+[INFO] Building special Tables PDOM...
+[INFO] Adding EID and LASTEID attributes for C:\LiveContentData\publications\KC46\tables.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Adding TABREFID attribute...
+[INFO] Operation completed in 0 seconds.
+[INFO] ** Total number of tables: 159
+[INFO] Operation completed in 0 seconds.
+[INFO] Building Document Index PDOM...
+[INFO] ** Total number of index elements: 29
+[INFO] Operation completed in 0 seconds.
+[INFO] Sorting the INDEX vector ...
+[INFO] Operation completed in 0 seconds.
+[INFO] Building Document Index Tree PDOM...
+[INFO] Operation completed in 0 seconds.
+[INFO] Building SYSTEM level index...
+[INFO] Operation completed in 0 seconds.
+[INFO] Building TOPIC level index...
+[INFO] Operation completed in 0 seconds.
+[INFO] Running custom search handlers...
+[INFO] Operation completed in 1 seconds.
+[INFO] Adding RefDm information...
+[INFO] ** Total number of references: 0
+[INFO] Operation completed in 0 seconds.
+[INFO] Building invalid xref report PDOM...
+[INFO] ** Total number of invalid xrefs: 0
+[INFO] Operation completed in 0 seconds.
+[INFO] Building invalid xref report PDOM...
+[INFO] Building image report PDOM...
+[INFO] ** Total number of images: 0
+[INFO] Operation completed in 0 seconds.
+[INFO] Building Source Data Incorporated PDOM...
+[INFO] Sorting change reasons ...
+[INFO] Building Source PDOM...
+[INFO] Operation completed in 0 seconds.
+[INFO] File C:\LiveContentData\publications\KC46\multisheetipbgroup.pdm was not deleted
+[INFO] File C:\LiveContentData\publications\KC46\multisheetipbgroup.xml was not deleted
+[INFO] Building multiGraphics report PDOM...
+[INFO] Operation completed in 0 seconds.
+[INFO] Building WCN level index PDOM...
+[INFO] Operation completed in 0 seconds.
+[INFO] Building AcronList PDOM...
+[INFO] Building Document Duplicate Index PDOM...
+[INFO] Operation completed in 0 seconds.
+[INFO] Total execution time for parser stage 10 seconds.
+[INFO] Cleaning up PDM data files ...
+[INFO] Deleting C:\LiveContentData\publications\KC46\KC46.001
+[INFO] Deleting C:\LiveContentData\publications\KC46\KC46.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\toc.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\activity.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\figures.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\tables.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\indexdoc.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\index.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\system.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\topic.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\ipc.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\docidx.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wiredata.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\fault.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwtitle.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwtpctitle.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwfgrtitle.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwtbltitle.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwpartpnr.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwpartmfc.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwpartdfp.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwwirenum.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwwiredes.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwfaultcode.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwfaulttitle.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wwdocidx.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\dxrefidx.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\images.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\source.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\ipbfig.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\wcn.pdm
+[INFO] Deleting C:\LiveContentData\publications\KC46\dupindex.pdm
+[INFO] Writing C:\LiveContentData\publications\KC46\KC46.001
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\KC46.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\toc.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\activity.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\figures.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\tables.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\indexdoc.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\index.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\system.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\topic.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\ipc.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\docidx.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wiredata.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\fault.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwtitle.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwtpctitle.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwfgrtitle.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwtbltitle.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwpartpnr.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwpartmfc.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwpartdfp.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwwirenum.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwwiredes.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwfaultcode.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwfaulttitle.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wwdocidx.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\dxrefidx.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\images.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\source.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\ipbfig.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\wcn.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Writing C:\LiveContentData\publications\KC46\dupindex.pdm
+[INFO] Operation completed in 0 seconds.
+[INFO] Done in 47 ms
+[INFO] KC46.001 is done: processed 45187 KB/sec, total time=0sec
+[INFO] Creating index: FULLTEXT
+[INFO] Added index in 0 sec
+[INFO] Total execution time for compression stage 2 seconds.
+[INFO] *******************************************
+[INFO] Parsing process completed on 01.25.2016 at 03:32:50 PM
+[INFO] Duration 14 sec.
+[INFO] *******************************************

@@ -1,0 +1,1680 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dmodule>
+  <dmitem dmkey="1KC46-A-00-00-0000-00A2D-009A-A_000-00">
+    <dmtitle>TABLE OF CONTENTS-UNK</dmtitle>
+    <dmtechname>TABLE OF CONTENTS</dmtechname>
+    <dminfoname>UNK</dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0000-00A2D-018A-A_000-00">
+    <dmtitle>INTRODUCTION-</dmtitle>
+    <dmtechname>INTRODUCTION</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0100-00A2D-010A-A_000-00">
+    <dmtitle>TYPE MAINTENANCE CODES-</dmtitle>
+    <dmtechname>TYPE MAINTENANCE CODES</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0200-00A2D-010A-A_000-00">
+    <dmtitle>ACTION TAKEN CODES-</dmtitle>
+    <dmtechname>ACTION TAKEN CODES</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0300-00A2D-010A-A_000-01">
+    <dmtitle>WHEN DISCOVERED CODES-</dmtitle>
+    <dmtechname>WHEN DISCOVERED CODES</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0400-00A2D-010A-A_000-00">
+    <dmtitle>ALPHABETICAL LISTING – AVIONICS/ELECTRONICS/COMPUTER-</dmtitle>
+    <dmtechname>ALPHABETICAL LISTING – AVIONICS/ELECTRONICS/COMPUTER</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0400-01A2D-010A-A_000-00">
+    <dmtitle>ALPHABETICAL LISTING – PHYSICAL/MECHANICAL-</dmtitle>
+    <dmtechname>ALPHABETICAL LISTING – PHYSICAL/MECHANICAL</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0400-02A2D-010A-A_000-00">
+    <dmtitle>ALPHABETICAL LISTING – ENGINE RELATED-</dmtitle>
+    <dmtechname>ALPHABETICAL LISTING – ENGINE RELATED</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0400-06A2D-010A-A_000-00">
+    <dmtitle>NUMERICAL LISTING – AVIONICS/ELECTRONICS/COMPUTER-</dmtitle>
+    <dmtechname>NUMERICAL LISTING – AVIONICS/ELECTRONICS/COMPUTER</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0400-07A2D-010A-A_000-00">
+    <dmtitle>NUMERICAL LISTING – PHYSICAL/MECHANICAL-</dmtitle>
+    <dmtechname>NUMERICAL LISTING – PHYSICAL/MECHANICAL</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0400-08A2D-010A-A_000-00">
+    <dmtitle>NUMERICAL LISTING – ENGINE RELATED-</dmtitle>
+    <dmtechname>NUMERICAL LISTING – ENGINE RELATED</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0500-00A2D-010A-A_000-00">
+    <dmtitle>UNIQUE DATA CODES – MCS (MAINTENANCE COST SYSTEM)-</dmtitle>
+    <dmtechname>UNIQUE DATA CODES – MCS (MAINTENANCE COST SYSTEM)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0600-00A2D-010A-A_000-00">
+    <dmtitle>SUPPORT GENERAL CODES – EXCEPT 03000 AND 04000-</dmtitle>
+    <dmtechname>SUPPORT GENERAL CODES – EXCEPT 03000 AND 04000</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0600-01A2D-010A-A_000-01">
+    <dmtitle>SUPPORT GENERAL CODES – 03000-</dmtitle>
+    <dmtechname>SUPPORT GENERAL CODES – 03000</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-0600-02A2D-010A-A_000-00">
+    <dmtitle>SUPPORT GENERAL CODES – 04000-</dmtitle>
+    <dmtechname>SUPPORT GENERAL CODES – 04000</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-00A2D-010A-A_000-00">
+    <dmtitle>FORWARD CREW ENTRY/SERVICE DOORS (52-12-00)-</dmtitle>
+    <dmtechname>FORWARD CREW ENTRY/SERVICE DOORS (52-12-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-01A2D-010A-A_000-00">
+    <dmtitle>AFT ENTRY/SERVICE DOORS (52-11-00)-</dmtitle>
+    <dmtechname>AFT ENTRY/SERVICE DOORS (52-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-02A2D-010A-A_000-00">
+    <dmtitle>OVERWING ESCAPE HATCH (52-21-00)-</dmtitle>
+    <dmtechname>OVERWING ESCAPE HATCH (52-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-03A2D-010A-A_000-00">
+    <dmtitle>MAIN DECK CARGO DOOR (52-32-00)-</dmtitle>
+    <dmtechname>MAIN DECK CARGO DOOR (52-32-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-04A2D-010A-A_000-00">
+    <dmtitle>STANDARD FORWARD CARGO DOOR (52-34-00)-</dmtitle>
+    <dmtechname>STANDARD FORWARD CARGO DOOR (52-34-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-05A2D-010A-A_000-00">
+    <dmtitle>AFT CARGO DOOR (52-35-00)-</dmtitle>
+    <dmtechname>AFT CARGO DOOR (52-35-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-06A2D-010A-A_000-00">
+    <dmtitle>SERVICE DOORS (52-40-00)-</dmtitle>
+    <dmtechname>SERVICE DOORS (52-40-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-07A2D-010A-A_000-00">
+    <dmtitle>FLIGHT COMPARTMENT DOOR (52-51-00)-</dmtitle>
+    <dmtechname>FLIGHT COMPARTMENT DOOR (52-51-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-08A2D-010A-A_000-00">
+    <dmtitle>DOOR WARNING SYSTEM (52-71-00)-</dmtitle>
+    <dmtechname>DOOR WARNING SYSTEM (52-71-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-09A2D-010A-A_000-00">
+    <dmtitle>FUSELAGE – FLOOR AND ACOUSTIC TILE (53-01-00)-</dmtitle>
+    <dmtechname>FUSELAGE – FLOOR AND ACOUSTIC TILE (53-01-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-10A2D-010A-A_000-00">
+    <dmtitle>FUSELAGE – SECTIONS (53-10-00)-</dmtitle>
+    <dmtechname>FUSELAGE – SECTIONS (53-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-11A2D-010A-A_000-00">
+    <dmtitle>NACELLES/PYLONS (54-00-00)-</dmtitle>
+    <dmtechname>NACELLES/PYLONS (54-00-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-12A2D-010A-A_000-00">
+    <dmtitle>STABILIZERS – HORIZONTAL (55-10-00)-</dmtitle>
+    <dmtechname>STABILIZERS – HORIZONTAL (55-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-13A2D-010A-A_000-00">
+    <dmtitle>STABILIZER – VERTICAL (55-30-00)-</dmtitle>
+    <dmtechname>STABILIZER – VERTICAL (55-30-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-14A2D-010A-A_000-00">
+    <dmtitle>WINDOWS – FLIGHT COMPARTMENT (56-10-00)-</dmtitle>
+    <dmtechname>WINDOWS – FLIGHT COMPARTMENT (56-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-15A2D-010A-A_000-00">
+    <dmtitle>WINDOWS – INSPECTION AND OBSERVATION (56-40-00)-</dmtitle>
+    <dmtechname>WINDOWS – INSPECTION AND OBSERVATION (56-40-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-16A2D-010A-A_000-00">
+    <dmtitle>CENTER WING (57-10-00)-</dmtitle>
+    <dmtechname>CENTER WING (57-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-17A2D-010A-A_000-00">
+    <dmtitle>OUTER WING (57-20-00)-</dmtitle>
+    <dmtechname>OUTER WING (57-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-18A2D-010A-A_000-00">
+    <dmtitle>VORTEX GENERATORS (57-25-00)-</dmtitle>
+    <dmtechname>VORTEX GENERATORS (57-25-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-19A2D-010A-A_000-00">
+    <dmtitle>CONDUCTING STRIP (57-28-00)-</dmtitle>
+    <dmtechname>CONDUCTING STRIP (57-28-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-20A2D-010A-A_000-00">
+    <dmtitle>TIP (57-30-00)-</dmtitle>
+    <dmtechname>TIP (57-30-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-21A2D-010A-A_000-00">
+    <dmtitle>LEADING EDGE AND LEADING EDGE DEVICES (57-40-00)-</dmtitle>
+    <dmtechname>LEADING EDGE AND LEADING EDGE DEVICES (57-40-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-22A2D-010A-A_000-00">
+    <dmtitle>TRAILING EDGE AND TRAILING EDGE DEVICES (57-51-00)-</dmtitle>
+    <dmtechname>TRAILING EDGE AND TRAILING EDGE DEVICES (57-51-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-23A2D-010A-A_000-00">
+    <dmtitle>LANDING GEAR SUPPORT (57-54-00)-</dmtitle>
+    <dmtechname>LANDING GEAR SUPPORT (57-54-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1100-24A2D-010A-A_000-00">
+    <dmtitle>AIRFRAME DRAINAGE (57-41-00)-</dmtitle>
+    <dmtechname>AIRFRAME DRAINAGE (57-41-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1200-00A2D-010A-A_000-00">
+    <dmtitle>FLIGHT COMPARTMENT (25-10-00)-</dmtitle>
+    <dmtechname>FLIGHT COMPARTMENT (25-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1200-01A2D-010A-A_000-00">
+    <dmtitle>AERIAL REFUELING OPERATOR STATION (AROS) (25-20-00)-</dmtitle>
+    <dmtechname>AERIAL REFUELING OPERATOR STATION (AROS) (25-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1200-02A2D-010A-A_000-00">
+    <dmtitle>MAIN CABIN (25-20-00)-</dmtitle>
+    <dmtechname>MAIN CABIN (25-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1200-03A2D-010A-A_000-00">
+    <dmtitle>CARGO COMPARTMENT – LOWER LOBE (25-52-00)-</dmtitle>
+    <dmtechname>CARGO COMPARTMENT – LOWER LOBE (25-52-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1200-04A2D-010A-A_000-00">
+    <dmtitle>CARGO COMPARTMENT – MAIN DECK (25-50-00)-</dmtitle>
+    <dmtechname>CARGO COMPARTMENT – MAIN DECK (25-50-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1200-05A2D-010A-A_000-00">
+    <dmtitle>ENTRY DEVICES (25-##-00)-</dmtitle>
+    <dmtechname>ENTRY DEVICES (25-##-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-00A2D-010A-A_000-04">
+    <dmtitle>MAIN GEAR (32-11-00)-</dmtitle>
+    <dmtechname>MAIN GEAR (32-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-01A2D-010A-A_000-00">
+    <dmtitle>MAIN GEAR DOORS (32-12-00)-</dmtitle>
+    <dmtechname>MAIN GEAR DOORS (32-12-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-02A2D-010A-A_000-00">
+    <dmtitle>NOSE GEAR (32-21-00)-</dmtitle>
+    <dmtechname>NOSE GEAR (32-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-03A2D-010A-A_000-00">
+    <dmtitle>NOSE GEAR DOORS (32-22-00)-</dmtitle>
+    <dmtechname>NOSE GEAR DOORS (32-22-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-04A2D-010A-A_000-00">
+    <dmtitle>LANDING GEAR CONTROL (32-31-00)-</dmtitle>
+    <dmtechname>LANDING GEAR CONTROL (32-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-05A2D-010A-A_000-00">
+    <dmtitle>MAIN GEAR EXTENSION AND RETRACTION (32-32-00)-</dmtitle>
+    <dmtechname>MAIN GEAR EXTENSION AND RETRACTION (32-32-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-06A2D-010A-A_000-00">
+    <dmtitle>NOSE GEAR EXTENSION AND RETRACTION (32-34-00)-</dmtitle>
+    <dmtechname>NOSE GEAR EXTENSION AND RETRACTION (32-34-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-07A2D-010A-A_000-00">
+    <dmtitle>LANDING GEAR ALTERNATE EXTEND SYSTEM (32-35-00)-</dmtitle>
+    <dmtechname>LANDING GEAR ALTERNATE EXTEND SYSTEM (32-35-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-08A2D-010A-A_000-00">
+    <dmtitle>HYDRAULIC BRAKE SYSTEM (32-41-00)-</dmtitle>
+    <dmtechname>HYDRAULIC BRAKE SYSTEM (32-41-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-09A2D-010A-A_000-06">
+    <dmtitle>ANTISKID/AUTOBRAKE SYSTEM (32-42-00)-</dmtitle>
+    <dmtechname>ANTISKID/AUTOBRAKE SYSTEM (32-42-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-11A2D-010A-A_000-00">
+    <dmtitle>PARKING BRAKE SYSTEM (32-44-00)-</dmtitle>
+    <dmtechname>PARKING BRAKE SYSTEM (32-44-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-12A2D-010A-A_000-00">
+    <dmtitle>WHEELS AND TIRES (32-45-00)-</dmtitle>
+    <dmtechname>WHEELS AND TIRES (32-45-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-13A2D-010A-A_000-00">
+    <dmtitle>BRAKE TEMPERATURE MONITORING SYSTEM (32-46-00)-</dmtitle>
+    <dmtechname>BRAKE TEMPERATURE MONITORING SYSTEM (32-46-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-14A2D-010A-A_000-00">
+    <dmtitle>NOSE WHEEL STEERING SYSTEM (32-51-00)-</dmtitle>
+    <dmtechname>NOSE WHEEL STEERING SYSTEM (32-51-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-15A2D-010A-A_000-00">
+    <dmtitle>POSITION INDICATING AND WARNING SYSTEM (32-61-00)-</dmtitle>
+    <dmtechname>POSITION INDICATING AND WARNING SYSTEM (32-61-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1300-16A2D-010A-A_000-00">
+    <dmtitle>PROXIMITY SWITCH SYSTEM (32-09-03)-</dmtitle>
+    <dmtechname>PROXIMITY SWITCH SYSTEM (32-09-03)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-00A2D-010A-A_000-00">
+    <dmtitle>FLIGHT CONTROL SYSTEM ELECTRONICS UNIT (CSEU) (27-09-00)-</dmtitle>
+    <dmtechname>FLIGHT CONTROL SYSTEM ELECTRONICS UNIT (CSEU) (27-09-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-01A2D-010A-A_000-00">
+    <dmtitle>AILERON AND AILERON TRIM CONTROL SYSTEM (27-11-00)-</dmtitle>
+    <dmtechname>AILERON AND AILERON TRIM CONTROL SYSTEM (27-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-02A2D-010A-A_000-00">
+    <dmtitle>AILERON POSITION INDICATING SYSTEM (27-18-00)-</dmtitle>
+    <dmtechname>AILERON POSITION INDICATING SYSTEM (27-18-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-03A2D-010A-A_000-00">
+    <dmtitle>RUDDER AND RUDDER TRIM CONTROL SYSTEM (27-21-00)-</dmtitle>
+    <dmtechname>RUDDER AND RUDDER TRIM CONTROL SYSTEM (27-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-04A2D-010A-A_000-00">
+    <dmtitle>RUDDER AND ELEVATOR SHUTOFF VALVES (27-23-00)-</dmtitle>
+    <dmtechname>RUDDER AND ELEVATOR SHUTOFF VALVES (27-23-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-05A2D-010A-A_000-00">
+    <dmtitle>RUDDER POSITION INDICATING SYSTEM (27-28-00)-</dmtitle>
+    <dmtechname>RUDDER POSITION INDICATING SYSTEM (27-28-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-06A2D-010A-A_000-00">
+    <dmtitle>ELEVATOR CONTROL SYSTEM (27-31-00)-</dmtitle>
+    <dmtechname>ELEVATOR CONTROL SYSTEM (27-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-07A2D-010A-A_000-00">
+    <dmtitle>STALL WARNING SYSTEM (27-32-00)-</dmtitle>
+    <dmtechname>STALL WARNING SYSTEM (27-32-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-08A2D-010A-A_000-00">
+    <dmtitle>ELEVATOR POSITION INDICATING SYSTEM (27-38-00)-</dmtitle>
+    <dmtechname>ELEVATOR POSITION INDICATING SYSTEM (27-38-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-09A2D-010A-A_000-00">
+    <dmtitle>STABILIZER TRIM POSITION INDICATING SYSTEM (27-48-00)-</dmtitle>
+    <dmtechname>STABILIZER TRIM POSITION INDICATING SYSTEM (27-48-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-10A2D-010A-A_000-00">
+    <dmtitle>TRAILING EDGE (TE) FLAP SYSTEM (27-51-00)-</dmtitle>
+    <dmtechname>TRAILING EDGE (TE) FLAP SYSTEM (27-51-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-11A2D-010A-A_000-00">
+    <dmtitle>TE FLAP POSITION INDICATING SYSTEM (27-58-00)-</dmtitle>
+    <dmtechname>TE FLAP POSITION INDICATING SYSTEM (27-58-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-12A2D-010A-A_000-00">
+    <dmtitle>SPOILER/SPEEDBRAKE CONTROL SYSTEM (27-61-00)-</dmtitle>
+    <dmtechname>SPOILER/SPEEDBRAKE CONTROL SYSTEM (27-61-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-13A2D-010A-A_000-00">
+    <dmtitle>AUTO-SPEEDBRAKE CONTROL SYSTEM (27-62-00)-</dmtitle>
+    <dmtechname>AUTO-SPEEDBRAKE CONTROL SYSTEM (27-62-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-14A2D-010A-A_000-00">
+    <dmtitle>LEADING EDGE SLAT SYSTEM (27-81-00)-</dmtitle>
+    <dmtechname>LEADING EDGE SLAT SYSTEM (27-81-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-1400-15A2D-010A-A_000-00">
+    <dmtitle>LEADING EDGE SLAT POSITION INDICATING SYSTEM (27-88-00)-</dmtitle>
+    <dmtechname>LEADING EDGE SLAT POSITION INDICATING SYSTEM (27-88-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-00A2D-010A-A_000-00">
+    <dmtitle>ENGINE COWLING (71-11-00)-</dmtitle>
+    <dmtechname>ENGINE COWLING (71-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-01A2D-010A-A_000-00">
+    <dmtitle>ENGINE MOUNTS (71-20-00)-</dmtitle>
+    <dmtechname>ENGINE MOUNTS (71-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-02A2D-010A-A_000-00">
+    <dmtitle>ENGINE ELECTRICAL HARNESS (71-50-00)-</dmtitle>
+    <dmtechname>ENGINE ELECTRICAL HARNESS (71-50-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-03A2D-010A-A_000-00">
+    <dmtitle>ENGINE DRAINS (71-70-00)-</dmtitle>
+    <dmtechname>ENGINE DRAINS (71-70-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-04A2D-010A-A_000-00">
+    <dmtitle>ENGINE SECTION – COMPRESSOR (72-30-00)-</dmtitle>
+    <dmtechname>ENGINE SECTION – COMPRESSOR (72-30-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-05A2D-010A-A_000-00">
+    <dmtitle>ENGINE SECTION – COMBUSTION (72-40-00)-</dmtitle>
+    <dmtechname>ENGINE SECTION – COMBUSTION (72-40-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-06A2D-010A-A_000-00">
+    <dmtitle>ENGINE SECTION – TURBINE (72-50-00)-</dmtitle>
+    <dmtechname>ENGINE SECTION – TURBINE (72-50-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-07A2D-010A-A_000-00">
+    <dmtitle>ENGINE – ACCESSORY DRIVES (72-60-00)-</dmtitle>
+    <dmtechname>ENGINE – ACCESSORY DRIVES (72-60-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-08A2D-010A-A_000-00">
+    <dmtitle>ENGINE FUEL – DISTRIBUTION (73-10-00)-</dmtitle>
+    <dmtechname>ENGINE FUEL – DISTRIBUTION (73-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-09A2D-010A-A_000-00">
+    <dmtitle>ENGINE FUEL – CONTROL (73-20-00)-</dmtitle>
+    <dmtechname>ENGINE FUEL – CONTROL (73-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-10A2D-010A-A_000-00">
+    <dmtitle>ENGINE FUEL – INDICATING (73-30-00)-</dmtitle>
+    <dmtechname>ENGINE FUEL – INDICATING (73-30-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-11A2D-010A-A_000-00">
+    <dmtitle>ENGINE IGNITION – ELECTRICAL POWER SUPPLY
+(74-10-00)-</dmtitle>
+    <dmtechname>ENGINE IGNITION – ELECTRICAL POWER SUPPLY
+(74-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-12A2D-010A-A_000-00">
+    <dmtitle>ENGINE IGNITION – DISTRIBUTION (74-20-00)-</dmtitle>
+    <dmtechname>ENGINE IGNITION – DISTRIBUTION (74-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-13A2D-010A-A_000-00">
+    <dmtitle>ENGINE AIR – COOLING (75-20-00)-</dmtitle>
+    <dmtechname>ENGINE AIR – COOLING (75-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-14A2D-010A-A_000-00">
+    <dmtitle>ENGINE AIR – COMPRESSOR CONTROL (75-30-00)-</dmtitle>
+    <dmtechname>ENGINE AIR – COMPRESSOR CONTROL (75-30-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-15A2D-010A-A_000-00">
+    <dmtitle>ENGINE CONTROLS – POWER CONTROL (76-10-00)-</dmtitle>
+    <dmtechname>ENGINE CONTROLS – POWER CONTROL (76-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-16A2D-010A-A_000-00">
+    <dmtitle>ENGINE INDICATING – POWER (77-10-00)-</dmtitle>
+    <dmtechname>ENGINE INDICATING – POWER (77-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-17A2D-010A-A_000-00">
+    <dmtitle>ENGINE INDICATING – TEMPERATURE (77-20-00)-</dmtitle>
+    <dmtechname>ENGINE INDICATING – TEMPERATURE (77-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-18A2D-010A-A_000-00">
+    <dmtitle>ENGINE INDICATING – ANALYZERS (77-30-00)-</dmtitle>
+    <dmtechname>ENGINE INDICATING – ANALYZERS (77-30-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-19A2D-010A-A_000-00">
+    <dmtitle>ENGINE EXHAUST (78-00-00)-</dmtitle>
+    <dmtechname>ENGINE EXHAUST (78-00-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-20A2D-010A-A_000-00">
+    <dmtitle>ENGINE OIL – STORAGE (79-10-00)-</dmtitle>
+    <dmtechname>ENGINE OIL – STORAGE (79-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-21A2D-010A-A_000-00">
+    <dmtitle>ENGINE OIL – DISTRIBUTION (79-20-00)-</dmtitle>
+    <dmtechname>ENGINE OIL – DISTRIBUTION (79-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-22A2D-010A-A_000-00">
+    <dmtitle>ENGINE OIL – INDICATING (79-30-00)-</dmtitle>
+    <dmtechname>ENGINE OIL – INDICATING (79-30-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2300-23A2D-010A-A_000-00">
+    <dmtitle>ENGINE STARTING (80-10-00)-</dmtitle>
+    <dmtechname>ENGINE STARTING (80-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2400-00A2D-010A-A_000-00">
+    <dmtitle>APU MOUNTS (49-13-00)-</dmtitle>
+    <dmtechname>APU MOUNTS (49-13-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2400-01A2D-010A-A_000-00">
+    <dmtitle>APU HARNESS (49-14-00)-</dmtitle>
+    <dmtechname>APU HARNESS (49-14-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2400-02A2D-010A-A_000-00">
+    <dmtitle>APU AIR INTAKE (49-15-00)-</dmtitle>
+    <dmtechname>APU AIR INTAKE (49-15-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2400-03A2D-010A-A_000-00">
+    <dmtitle>APU DRAINS AND VENT (49-16-00)-</dmtitle>
+    <dmtechname>APU DRAINS AND VENT (49-16-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-2400-04A2D-010A-A_000-00">
+    <dmtitle>APU ENGINE (49-20-00 – 49-90-00)-</dmtitle>
+    <dmtechname>APU ENGINE (49-20-00 – 49-90-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-3900-00A2D-010A-A_000-00">
+    <dmtitle>WING THERMAL ANTI-ICING (30-11-00)-</dmtitle>
+    <dmtechname>WING THERMAL ANTI-ICING (30-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-3900-01A2D-010A-A_000-00">
+    <dmtitle>AIR INTAKES (30-21-00)-</dmtitle>
+    <dmtechname>AIR INTAKES (30-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-3900-02A2D-010A-A_000-00">
+    <dmtitle>PITOT AND STATIC (30-30-00)-</dmtitle>
+    <dmtechname>PITOT AND STATIC (30-30-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-3900-03A2D-010A-A_000-00">
+    <dmtitle>WINDOWS, WINDSHIELDS, CANOPIES AND DOORS (30-40-00)-</dmtitle>
+    <dmtechname>WINDOWS, WINDSHIELDS, CANOPIES AND DOORS (30-40-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-3900-04A2D-010A-A_000-00">
+    <dmtitle>ANTENNAS AND RADOMES (30-50-00)-</dmtitle>
+    <dmtechname>ANTENNAS AND RADOMES (30-50-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-3900-05A2D-010A-A_000-00">
+    <dmtitle>WATER LINES (30-70-00)-</dmtitle>
+    <dmtechname>WATER LINES (30-70-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-00A2D-010A-A_000-00">
+    <dmtitle>AIR CONDITIONING SYSTEM OIL CONTAMINATION (21-00-21)-</dmtitle>
+    <dmtechname>AIR CONDITIONING SYSTEM OIL CONTAMINATION (21-00-21)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-01A2D-010A-A_000-00">
+    <dmtitle>COMPRESSION (21-10-00)-</dmtitle>
+    <dmtechname>COMPRESSION (21-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-02A2D-010A-A_000-00">
+    <dmtitle>DISTRIBUTION – AIR CONDITIONING DUCTS (21-20-11)-</dmtitle>
+    <dmtechname>DISTRIBUTION – AIR CONDITIONING DUCTS (21-20-11)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-03A2D-010A-A_000-00">
+    <dmtitle>DISTRIBUTION – MAIN AIR DISTRIBUTION (21-21-00)-</dmtitle>
+    <dmtechname>DISTRIBUTION – MAIN AIR DISTRIBUTION (21-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-04A2D-010A-A_000-00">
+    <dmtitle>DISTRIBUTION – FLIGHT COMPARTMENT AIR DISTRIBUTION
+(21-22-00)-</dmtitle>
+    <dmtechname>DISTRIBUTION – FLIGHT COMPARTMENT AIR DISTRIBUTION
+(21-22-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-05A2D-010A-A_000-00">
+    <dmtitle>DISTRIBUTION – CONDITIONED AIR DISTRIBUTION
+(21-23-00)-</dmtitle>
+    <dmtechname>DISTRIBUTION – CONDITIONED AIR DISTRIBUTION
+(21-23-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-06A2D-010A-A_000-00">
+    <dmtitle>DISTRIBUTION – GASPER AIR SYSTEM (21-24-00)-</dmtitle>
+    <dmtechname>DISTRIBUTION – GASPER AIR SYSTEM (21-24-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-07A2D-010A-A_000-00">
+    <dmtitle>DISTRIBUTION – RECIRCULATION SYSTEM (21-25-00)-</dmtitle>
+    <dmtechname>DISTRIBUTION – RECIRCULATION SYSTEM (21-25-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-08A2D-010A-A_000-00">
+    <dmtitle>DISTRIBUTION – VENTILATION SYSTEM (21-26-00)-</dmtitle>
+    <dmtechname>DISTRIBUTION – VENTILATION SYSTEM (21-26-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-09A2D-010A-A_000-00">
+    <dmtitle>CABIN PRESSURE CONTROL SYSTEM (21-31-00)-</dmtitle>
+    <dmtechname>CABIN PRESSURE CONTROL SYSTEM (21-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-10A2D-010A-A_000-00">
+    <dmtitle>CABIN PRESSURE RELIEF SYSTEM (21-32-00)-</dmtitle>
+    <dmtechname>CABIN PRESSURE RELIEF SYSTEM (21-32-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-11A2D-010A-A_000-00">
+    <dmtitle>CABIN PRESSURE INDICATION AND WARNING SYSTEM (21-33-00)-</dmtitle>
+    <dmtechname>CABIN PRESSURE INDICATION AND WARNING SYSTEM (21-33-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-12A2D-010A-A_000-00">
+    <dmtitle>SUPPLEMENTAL HEATING SYSTEMS (21-45-00)-</dmtitle>
+    <dmtechname>SUPPLEMENTAL HEATING SYSTEMS (21-45-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-13A2D-010A-A_000-00">
+    <dmtitle>COOLING PACK SYSTEM (21-51-00 – 21-52-00)-</dmtitle>
+    <dmtechname>COOLING PACK SYSTEM (21-51-00 – 21-52-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-14A2D-010A-A_000-00">
+    <dmtitle>RAM AIR SYSTEM (21-53-00)-</dmtitle>
+    <dmtechname>RAM AIR SYSTEM (21-53-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-15A2D-010A-A_000-00">
+    <dmtitle>DEFENSE EQUIPMENT COOLING SYSTEM (21-57-00)-</dmtitle>
+    <dmtechname>DEFENSE EQUIPMENT COOLING SYSTEM (21-57-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-16A2D-010A-A_000-00">
+    <dmtitle>FORWARD EQUIPMENT COOLING SYSTEM (FECS) (21-58-00)-</dmtitle>
+    <dmtechname>FORWARD EQUIPMENT COOLING SYSTEM (FECS) (21-58-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-17A2D-010A-A_000-00">
+    <dmtitle>AFT EQUIPMENT COOLING SYSTEM (AECS) (21-58-70)-</dmtitle>
+    <dmtechname>AFT EQUIPMENT COOLING SYSTEM (AECS) (21-58-70)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-18A2D-010A-A_000-00">
+    <dmtitle>MID EQUIPMENT COOLING SYSTEM (MECS) (21-58-80)-</dmtitle>
+    <dmtechname>MID EQUIPMENT COOLING SYSTEM (MECS) (21-58-80)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-19A2D-010A-A_000-00">
+    <dmtitle>AERIAL REFUELING OPERATOR STATION (AROS) EQUIPMENT
+COOLING SYSTEM (21-59-00)-</dmtitle>
+    <dmtechname>AERIAL REFUELING OPERATOR STATION (AROS) EQUIPMENT
+COOLING SYSTEM (21-59-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-20A2D-010A-A_000-00">
+    <dmtitle>TEMPERATURE CONTROL SYSTEM (21-61-00)-</dmtitle>
+    <dmtechname>TEMPERATURE CONTROL SYSTEM (21-61-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-21A2D-010A-A_000-00">
+    <dmtitle>ZONE TRIM AIR MODULATING VALVE POSITION INDICATION
+SYSTEM (21-64-00)-</dmtitle>
+    <dmtechname>ZONE TRIM AIR MODULATING VALVE POSITION INDICATION
+SYSTEM (21-64-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-22A2D-010A-A_000-00">
+    <dmtitle>TEMPERATURE INDICATION SYSTEM (21-65-00)-</dmtitle>
+    <dmtechname>TEMPERATURE INDICATION SYSTEM (21-65-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4100-23A2D-010A-A_000-00">
+    <dmtitle>AIRCREW MEMBER COMPARTMENT TEMPERATURE CONTROL
+SYSTEM (21-66-00)-</dmtitle>
+    <dmtechname>AIRCREW MEMBER COMPARTMENT TEMPERATURE CONTROL
+SYSTEM (21-66-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4200-00A2D-010A-A_000-00">
+    <dmtitle>GENERATOR DRIVE SYSTEM (24-11-00)-</dmtitle>
+    <dmtechname>GENERATOR DRIVE SYSTEM (24-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4200-01A2D-010A-A_000-00">
+    <dmtitle>AC GENERATION (24-20-00)-</dmtitle>
+    <dmtechname>AC GENERATION (24-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4200-02A2D-010A-A_000-00">
+    <dmtitle>DC GENERATION (24-30-00)-</dmtitle>
+    <dmtechname>DC GENERATION (24-30-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4200-03A2D-010A-A_000-00">
+    <dmtitle>115 V AC POWER DISTRIBUTION (24-51-00)-</dmtitle>
+    <dmtechname>115 V AC POWER DISTRIBUTION (24-51-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4200-04A2D-010A-A_000-00">
+    <dmtitle>28 V DC POWER DISTRIBUTION (24-54-00)-</dmtitle>
+    <dmtechname>28 V DC POWER DISTRIBUTION (24-54-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4200-05A2D-010A-A_000-00">
+    <dmtitle>ELECTRICAL LOADS CONTROL UNIT (ELCU) – (24-55-00)-</dmtitle>
+    <dmtechname>ELECTRICAL LOADS CONTROL UNIT (ELCU) – (24-55-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-00A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – FLIGHT COMPARTMENT (33-10-00)-</dmtitle>
+    <dmtechname>LIGHTS – FLIGHT COMPARTMENT (33-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-01A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – AIRCREW COMPARTMENT (33-20-00)-</dmtitle>
+    <dmtechname>LIGHTS – AIRCREW COMPARTMENT (33-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-02A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – CARGO AND SERVICE COMPARTMENTS
+(33-30-00)-</dmtitle>
+    <dmtechname>LIGHTS – CARGO AND SERVICE COMPARTMENTS
+(33-30-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-03A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – WING ILLUMINATION LIGHTS (33-41-00)-</dmtitle>
+    <dmtechname>LIGHTS – WING ILLUMINATION LIGHTS (33-41-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-04A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – LANDING, RUNWAY TURNOFF AND TAXI
+LIGHTS (33-42-00)-</dmtitle>
+    <dmtechname>LIGHTS – LANDING, RUNWAY TURNOFF AND TAXI
+LIGHTS (33-42-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-05A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – POSITION (33-43-00)-</dmtitle>
+    <dmtechname>LIGHTS – POSITION (33-43-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-06A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – ANTI-COLLISION (33-44-00)-</dmtitle>
+    <dmtechname>LIGHTS – ANTI-COLLISION (33-44-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-07A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – FUSELAGE LIGHTS (33-46-00)-</dmtitle>
+    <dmtechname>LIGHTS – FUSELAGE LIGHTS (33-46-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-08A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – BOOM LIGHTING (28-77-00)-</dmtitle>
+    <dmtechname>LIGHTS – BOOM LIGHTING (28-77-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-09A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – CENTER DROGUE SYSTEM (CDS) SIGNAL
+(33-48-00)-</dmtitle>
+    <dmtechname>LIGHTS – CENTER DROGUE SYSTEM (CDS) SIGNAL
+(33-48-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-10A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – WING AERIAL REFUELING POD (WARP)
+LIGHTING (33-48-00)-</dmtitle>
+    <dmtechname>LIGHTS – WING AERIAL REFUELING POD (WARP)
+LIGHTING (33-48-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4400-11A2D-010A-A_000-00">
+    <dmtitle>LIGHTS – EMERGENCY (33-50-00)-</dmtitle>
+    <dmtechname>LIGHTS – EMERGENCY (33-50-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-00A2D-010A-A_000-00">
+    <dmtitle>HYDRAULIC – MAIN (LEFT, RIGHT, AND CENTER)
+SYSTEMS (29-11-00)-</dmtitle>
+    <dmtechname>HYDRAULIC – MAIN (LEFT, RIGHT, AND CENTER)
+SYSTEMS (29-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-01A2D-010A-A_000-00">
+    <dmtitle>HYDRAULIC – GROUND SERVICING SYSTEM (29-18-00)-</dmtitle>
+    <dmtechname>HYDRAULIC – GROUND SERVICING SYSTEM (29-18-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-02A2D-010A-A_000-00">
+    <dmtitle>HYDRAULIC – RAM AIR TURBINE (RAT) SYSTEM
+(29-21-00)-</dmtitle>
+    <dmtechname>HYDRAULIC – RAM AIR TURBINE (RAT) SYSTEM
+(29-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-03A2D-010A-A_000-00">
+    <dmtitle>HYDRAULIC – PITCH ENHANCEMENT SYSTEM (PES)
+(29-22-00-</dmtitle>
+    <dmtechname>HYDRAULIC – PITCH ENHANCEMENT SYSTEM (PES)
+(29-22-00</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-04A2D-010A-A_000-00">
+    <dmtitle>HYDRAULIC – PRESSURE INDICATING SYSTEM (29-31-00)-</dmtitle>
+    <dmtechname>HYDRAULIC – PRESSURE INDICATING SYSTEM (29-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-05A2D-010A-A_000-00">
+    <dmtitle>HYDRAULIC – TEMPERATURE INDICATING SYSTEM
+(29-32-00)-</dmtitle>
+    <dmtechname>HYDRAULIC – TEMPERATURE INDICATING SYSTEM
+(29-32-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-06A2D-010A-A_000-00">
+    <dmtitle>HYDRAULIC – QUANTITY INDICATING SYSTEM (29-33-00)-</dmtitle>
+    <dmtechname>HYDRAULIC – QUANTITY INDICATING SYSTEM (29-33-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-07A2D-010A-A_000-00">
+    <dmtitle>PNEUMATIC – AIR SUPPLY DISTRIBUTION SYSTEM
+(36-11-00)-</dmtitle>
+    <dmtechname>PNEUMATIC – AIR SUPPLY DISTRIBUTION SYSTEM
+(36-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-08A2D-010A-A_000-00">
+    <dmtitle>PNEUMATIC – AIR SUPPLY PRESSURE INDICATING
+SYSTEM (36-21-00)-</dmtitle>
+    <dmtechname>PNEUMATIC – AIR SUPPLY PRESSURE INDICATING
+SYSTEM (36-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-09A2D-010A-A_000-00">
+    <dmtitle>PNEUMATIC – AIR SUPPLY TEMPERATURE INDICATING
+SYSTEM (36-22-00)-</dmtitle>
+    <dmtechname>PNEUMATIC – AIR SUPPLY TEMPERATURE INDICATING
+SYSTEM (36-22-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4500-10A2D-010A-A_000-00">
+    <dmtitle>PNEUMATIC – AIR SUPPLY BITE SYSTEM (36-23-00)-</dmtitle>
+    <dmtechname>PNEUMATIC – AIR SUPPLY BITE SYSTEM (36-23-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-00A2D-010A-A_000-00">
+    <dmtitle>FUEL TANKS (28-11-00)-</dmtitle>
+    <dmtechname>FUEL TANKS (28-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-01A2D-010A-A_000-00">
+    <dmtitle>TANK VENT SYSTEM (28-13-00)-</dmtitle>
+    <dmtechname>TANK VENT SYSTEM (28-13-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-02A2D-010A-A_000-00">
+    <dmtitle>BODY TANK (28-14-01)-</dmtitle>
+    <dmtechname>BODY TANK (28-14-01)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-06A2D-010A-A_000-00">
+    <dmtitle>BODY TANK – CONTROLS &amp; INSPECTION DRAIN
+CHECK VALVE (28-14-19 &amp; 28-14-21)-</dmtitle>
+    <dmtechname>BODY TANK – CONTROLS &amp; INSPECTION DRAIN
+CHECK VALVE (28-14-19 &amp; 28-14-21)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-07A2D-010A-A_000-00">
+    <dmtitle>PRESSURE FUELING SYSTEM (28-21-00)-</dmtitle>
+    <dmtechname>PRESSURE FUELING SYSTEM (28-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-08A2D-010A-A_000-00">
+    <dmtitle>ENGINE FUEL FEED SYSTEM (28-22-00)-</dmtitle>
+    <dmtechname>ENGINE FUEL FEED SYSTEM (28-22-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-09A2D-010A-A_000-00">
+    <dmtitle>AUXILIARY POWER UNIT (APU) FUEL FEED SYSTEM (28-25-00)-</dmtitle>
+    <dmtechname>AUXILIARY POWER UNIT (APU) FUEL FEED SYSTEM (28-25-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-10A2D-010A-A_000-00">
+    <dmtitle>DEFUELING (28-26-00)-</dmtitle>
+    <dmtechname>DEFUELING (28-26-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-11A2D-010A-A_000-00">
+    <dmtitle>FUEL JETTISON SYSTEM (28-31-00)-</dmtitle>
+    <dmtechname>FUEL JETTISON SYSTEM (28-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-12A2D-010A-A_000-00">
+    <dmtitle>FUEL QUANTITY INDICATION SYSTEM (FQIS) (28-41-00)-</dmtitle>
+    <dmtechname>FUEL QUANTITY INDICATION SYSTEM (FQIS) (28-41-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-13A2D-010A-A_000-00">
+    <dmtitle>AR HYDRAULIC SUPPLY SYSTEM (28-51-00)-</dmtitle>
+    <dmtechname>AR HYDRAULIC SUPPLY SYSTEM (28-51-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-14A2D-010A-A_000-00">
+    <dmtitle>AR OPERATOR STATION (AROS) (28-53-00)-</dmtitle>
+    <dmtechname>AR OPERATOR STATION (AROS) (28-53-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-15A2D-010A-A_000-00">
+    <dmtitle>AR REMOTE VISION SYSTEM (28-54-00)-</dmtitle>
+    <dmtechname>AR REMOTE VISION SYSTEM (28-54-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-16A2D-010A-A_000-00">
+    <dmtitle>AR DELIVERY CONTROL SYSTEM (28-59-00 – 28-65-00)-</dmtitle>
+    <dmtechname>AR DELIVERY CONTROL SYSTEM (28-59-00 – 28-65-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-17A2D-010A-A_000-00">
+    <dmtitle>AR BOOM – MECHANICAL (28-71-00)-</dmtitle>
+    <dmtechname>AR BOOM – MECHANICAL (28-71-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-18A2D-010A-A_000-00">
+    <dmtitle>AR BOOM – CONTROL SURFACES (28-73-00)-</dmtitle>
+    <dmtechname>AR BOOM – CONTROL SURFACES (28-73-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-19A2D-010A-A_000-00">
+    <dmtitle>AR BOOM – TELESCOPING ACTUATION (28-74-00
+– 28-79-00)-</dmtitle>
+    <dmtechname>AR BOOM – TELESCOPING ACTUATION (28-74-00
+– 28-79-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-20A2D-010A-A_000-00">
+    <dmtitle>AR DROGUE – CENTERLINE – HOSE REEL
+ASSEMBLY (28-81-02 – 28-81-13)-</dmtitle>
+    <dmtechname>AR DROGUE – CENTERLINE – HOSE REEL
+ASSEMBLY (28-81-02 – 28-81-13)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-21A2D-010A-A_000-00">
+    <dmtitle>AR DROGUE – CENTERLINE – ASSEMBLY,
+HOSE &amp; STOWAGE TUBE – FR600-84MDR (28-81-14, 28-81-15)-</dmtitle>
+    <dmtechname>AR DROGUE – CENTERLINE – ASSEMBLY,
+HOSE &amp; STOWAGE TUBE – FR600-84MDR (28-81-14, 28-81-15)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-22A2D-010A-A_000-00">
+    <dmtitle>AR DROGUE – CENTERLINE – FUEL SYSTEM
+ASSEMBLY (28-81-17 – 28-81-25)-</dmtitle>
+    <dmtechname>AR DROGUE – CENTERLINE – FUEL SYSTEM
+ASSEMBLY (28-81-17 – 28-81-25)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-23A2D-010A-A_000-00">
+    <dmtitle>AR DROGUE – WING – AERIAL REFUELING
+POD SYSTEM (28-87-00 – 28-88-00)-</dmtitle>
+    <dmtechname>AR DROGUE – WING – AERIAL REFUELING
+POD SYSTEM (28-87-00 – 28-88-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-24A2D-010A-A_000-00">
+    <dmtitle>AR RECEPTACLE – INSTALLATION (28-91-00)-</dmtitle>
+    <dmtechname>AR RECEPTACLE – INSTALLATION (28-91-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-25A2D-010A-A_000-00">
+    <dmtitle>AR RECEPTACLE – CONTROL AND INDICATION (28-92-00)-</dmtitle>
+    <dmtechname>AR RECEPTACLE – CONTROL AND INDICATION (28-92-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4600-26A2D-010A-A_000-00">
+    <dmtitle>AR RECEPTACLE – MISSION SUPPORT EQUIPMENT
+(28-99-00)-</dmtitle>
+    <dmtechname>AR RECEPTACLE – MISSION SUPPORT EQUIPMENT
+(28-99-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4700-00A2D-010A-A_000-02">
+    <dmtitle>FLIGHT DECK OXYGEN SYSTEM (35-11-00)-</dmtitle>
+    <dmtechname>FLIGHT DECK OXYGEN SYSTEM (35-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4700-01A2D-010A-A_000-02">
+    <dmtitle>AIRCREW COMPARTMENT OXYGEN SYSTEM (35-12-00)-</dmtitle>
+    <dmtechname>AIRCREW COMPARTMENT OXYGEN SYSTEM (35-12-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4700-02A2D-010A-A_000-02">
+    <dmtitle>MAIN DECK CARGO COMPARTMENT OXYGEN SYSTEM (35-22-00)-</dmtitle>
+    <dmtechname>MAIN DECK CARGO COMPARTMENT OXYGEN SYSTEM (35-22-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4700-03A2D-010A-A_000-02">
+    <dmtitle>PORTABLE OXYGEN SYSTEM (35-31-00)-</dmtitle>
+    <dmtechname>PORTABLE OXYGEN SYSTEM (35-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4800-00A2D-010A-A_000-00">
+    <dmtitle>FLIGHT DATA RECORDER SYSTEM (31-31-00)-</dmtitle>
+    <dmtechname>FLIGHT DATA RECORDER SYSTEM (31-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4800-01A2D-010A-A_000-00">
+    <dmtitle>AIRPLANE CONDITION MONITORING SYSTEM (31-35-00)-</dmtitle>
+    <dmtechname>AIRPLANE CONDITION MONITORING SYSTEM (31-35-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4800-02A2D-010A-A_000-00">
+    <dmtitle>WARNING SYSTEM (31-51-00)-</dmtitle>
+    <dmtechname>WARNING SYSTEM (31-51-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4800-03A2D-010A-A_000-00">
+    <dmtitle>LARGE DISPLAY SYSTEM (LDS) (31-64-00)-</dmtitle>
+    <dmtechname>LARGE DISPLAY SYSTEM (LDS) (31-64-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4800-04A2D-010A-A_000-00">
+    <dmtitle>CENTRAL MAINTENANCE COMPUTER SYSTEM (CMCS) (ALSO
+KNOWN AS CENTRAL MAINTENANCE COMPUTER FUNCTION CMCF) (45-10-00)-</dmtitle>
+    <dmtechname>CENTRAL MAINTENANCE COMPUTER SYSTEM (CMCS) (ALSO
+KNOWN AS CENTRAL MAINTENANCE COMPUTER FUNCTION CMCF) (45-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-00A2D-010A-A_000-00">
+    <dmtitle>FIRE PROTECTION – DETECTION (26-10-00)-</dmtitle>
+    <dmtechname>FIRE PROTECTION – DETECTION (26-10-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-01A2D-010A-A_000-00">
+    <dmtitle>FIRE PROTECTION – EXTINGUISHING (26-20-00)-</dmtitle>
+    <dmtechname>FIRE PROTECTION – EXTINGUISHING (26-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-04A2D-010A-A_000-00">
+    <dmtitle> POTABLE WATER – STORAGE AND DISTRIBUTION
+(38-11-00)-</dmtitle>
+    <dmtechname> POTABLE WATER – STORAGE AND DISTRIBUTION
+(38-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-05A2D-010A-A_000-00">
+    <dmtitle> POTABLE WATER – HEATING (38-13-00)-</dmtitle>
+    <dmtechname> POTABLE WATER – HEATING (38-13-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-06A2D-010A-A_000-00">
+    <dmtitle> POTABLE WATER – QUANTITY INDICATION (38-14-00)-</dmtitle>
+    <dmtechname> POTABLE WATER – QUANTITY INDICATION (38-14-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-07A2D-010A-A_000-00">
+    <dmtitle> POTABLE WATER – TANK PRESSURIZATION (38-16-00)-</dmtitle>
+    <dmtechname> POTABLE WATER – TANK PRESSURIZATION (38-16-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-08A2D-010A-A_000-00">
+    <dmtitle>WASTE DISPOSAL – DRAIN MAST (38-31-00)-</dmtitle>
+    <dmtechname>WASTE DISPOSAL – DRAIN MAST (38-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-09A2D-010A-A_000-00">
+    <dmtitle>WASTE DISPOSAL – TOILET SYSTEM (38-32-00)-</dmtitle>
+    <dmtechname>WASTE DISPOSAL – TOILET SYSTEM (38-32-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-10A2D-010A-A_000-00">
+    <dmtitle>WASTE DISPOSAL – WASTE TANK QUANTITY INDICATION
+SYSTEM (38-33-00)-</dmtitle>
+    <dmtechname>WASTE DISPOSAL – WASTE TANK QUANTITY INDICATION
+SYSTEM (38-33-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-11A2D-010A-A_000-00">
+    <dmtitle>OBIGGS – AIR SEPARATION MODULE (47-11-00)-</dmtitle>
+    <dmtechname>OBIGGS – AIR SEPARATION MODULE (47-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-12A2D-010A-A_000-00">
+    <dmtitle>OBIGGS/NEADS – DISTRIBUTION (47-21-00)-</dmtitle>
+    <dmtechname>OBIGGS/NEADS – DISTRIBUTION (47-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-13A2D-010A-A_000-00">
+    <dmtitle>OBIGGS/NEADS – CONTROL (47-31-00)-</dmtitle>
+    <dmtechname>OBIGGS/NEADS – CONTROL (47-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-4900-14A2D-010A-A_000-00">
+    <dmtitle>OBIGGS – INDICATING (47-40-00)-</dmtitle>
+    <dmtechname>OBIGGS – INDICATING (47-40-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5200-00A2D-010A-A_000-00">
+    <dmtitle>AUTO FLIGHT (22-00-01 &amp; 22-00-02)-</dmtitle>
+    <dmtechname>AUTO FLIGHT (22-00-01 &amp; 22-00-02)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5200-01A2D-010A-A_000-00">
+    <dmtitle>AUTOPILOT/FLIGHT DIRECTOR POWER (22-11-00)-</dmtitle>
+    <dmtechname>AUTOPILOT/FLIGHT DIRECTOR POWER (22-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5200-02A2D-010A-A_000-00">
+    <dmtitle>AUTOPILOT/FLIGHT DIRECTOR PITCH CHANNEL (22-12-00)-</dmtitle>
+    <dmtechname>AUTOPILOT/FLIGHT DIRECTOR PITCH CHANNEL (22-12-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5200-03A2D-010A-A_000-00">
+    <dmtitle>AUTOPILOT/FLIGHT DIRECTOR ROLL AND YAW CHANNEL
+(22-13-00)-</dmtitle>
+    <dmtechname>AUTOPILOT/FLIGHT DIRECTOR ROLL AND YAW CHANNEL
+(22-13-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5200-04A2D-010A-A_000-00">
+    <dmtitle>AUTOPILOT/FLIGHT DIRECTOR WARNING AND ANNUNCIATION
+(22-14-00)-</dmtitle>
+    <dmtechname>AUTOPILOT/FLIGHT DIRECTOR WARNING AND ANNUNCIATION
+(22-14-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5200-05A2D-010A-A_000-00">
+    <dmtitle>AUTOPILOT/FLIGHT DIRECTOR INTERCHANNEL DATA (22-15-00)-</dmtitle>
+    <dmtechname>AUTOPILOT/FLIGHT DIRECTOR INTERCHANNEL DATA (22-15-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5200-06A2D-010A-A_000-00">
+    <dmtitle>YAW DAMPER SYSTEM (22-21-00)-</dmtitle>
+    <dmtechname>YAW DAMPER SYSTEM (22-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5200-07A2D-010A-A_000-00">
+    <dmtitle>AUTOMATIC STABILIZER TRIM SYSTEM (22-22-00)-</dmtitle>
+    <dmtechname>AUTOMATIC STABILIZER TRIM SYSTEM (22-22-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5200-08A2D-010A-A_000-00">
+    <dmtitle>THRUST MANAGEMENT POWER (22-31-00)-</dmtitle>
+    <dmtechname>THRUST MANAGEMENT POWER (22-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5200-09A2D-010A-A_000-00">
+    <dmtitle>THRUST MANAGEMENT – SYSTEM \ WARNING AND
+ANNUNCIATION (22-32-00 &amp; 22-34-00)-</dmtitle>
+    <dmtechname>THRUST MANAGEMENT – SYSTEM \ WARNING AND
+ANNUNCIATION (22-32-00 &amp; 22-34-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5700-00A2D-010A-A_000-00">
+    <dmtitle>PITOT-STATIC SYSTEM (34-11-00)-</dmtitle>
+    <dmtechname>PITOT-STATIC SYSTEM (34-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5700-01A2D-010A-A_000-00">
+    <dmtitle>ATTITUDE AND DIRECTION (34-20-00)-</dmtitle>
+    <dmtechname>ATTITUDE AND DIRECTION (34-20-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-5700-02A2D-010A-A_000-00">
+    <dmtitle>FLIGHT MANAGEMENT COMPUTING (34-60-00)-</dmtitle>
+    <dmtechname>FLIGHT MANAGEMENT COMPUTING (34-60-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6100-00A2D-010A-A_000-00">
+    <dmtitle>RADIO TUNING PANEL (23-10-10)-</dmtitle>
+    <dmtechname>RADIO TUNING PANEL (23-10-10)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6100-01A2D-010A-A_000-00">
+    <dmtitle>HF COMMUNICATION SYSTEM (23-11-00)-</dmtitle>
+    <dmtechname>HF COMMUNICATION SYSTEM (23-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6200-00A2D-010A-A_000-00">
+    <dmtitle>VHF COMMUNICATION SYSTEM (23-12-00)-</dmtitle>
+    <dmtechname>VHF COMMUNICATION SYSTEM (23-12-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6300-00A2D-010A-A_000-00">
+    <dmtitle>UHF/VHF COMMUNICATION SYSTEM (ARC-210) (23-16-00)-</dmtitle>
+    <dmtechname>UHF/VHF COMMUNICATION SYSTEM (ARC-210) (23-16-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6300-01A2D-010A-A_000-00">
+    <dmtitle>SELECTIVE CALLING (SELCAL) SYSTEM (23-21-00)-</dmtitle>
+    <dmtechname>SELECTIVE CALLING (SELCAL) SYSTEM (23-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6400-00A2D-010A-A_000-00">
+    <dmtitle>PASSENGER ADDRESS SYSTEM (23-31-00)-</dmtitle>
+    <dmtechname>PASSENGER ADDRESS SYSTEM (23-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6400-01A2D-010A-A_000-00">
+    <dmtitle>CABIN INTERPHONE SYSTEM (23-42-00)-</dmtitle>
+    <dmtechname>CABIN INTERPHONE SYSTEM (23-42-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6400-02A2D-010A-A_000-00">
+    <dmtitle>GROUND CREW CALL SYSTEM (23-43-00)-</dmtitle>
+    <dmtechname>GROUND CREW CALL SYSTEM (23-43-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6400-03A2D-010A-A_000-00">
+    <dmtitle>FLIGHT INTERPHONE SYSTEM (23-51-00)-</dmtitle>
+    <dmtechname>FLIGHT INTERPHONE SYSTEM (23-51-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6500-00A2D-010A-A_000-00">
+    <dmtitle>IDENTIFICATION FRIEND OR FOE SYSTEM (IFF) (34-52-00)-</dmtitle>
+    <dmtechname>IDENTIFICATION FRIEND OR FOE SYSTEM (IFF) (34-52-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6600-00A2D-010A-A_000-00">
+    <dmtitle>EMERGENCY LOCATOR TRANSMITTER SYSTEM (23-24-00)-</dmtitle>
+    <dmtechname>EMERGENCY LOCATOR TRANSMITTER SYSTEM (23-24-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6600-01A2D-010A-A_000-00">
+    <dmtitle>VOICE RECORDER SYSTEM (23-71-00)-</dmtitle>
+    <dmtechname>VOICE RECORDER SYSTEM (23-71-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6800-00A2D-010A-A_000-00">
+    <dmtitle>SATELLITE COMMUNICATION (SATCOM) SYSTEM (ARINC
+781) (23-25-00)-</dmtitle>
+    <dmtechname>SATELLITE COMMUNICATION (SATCOM) SYSTEM (ARINC
+781) (23-25-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6800-01A2D-010A-A_000-00">
+    <dmtitle>MILITARY SATCOM (ARC-210) (23-27-00-</dmtitle>
+    <dmtechname>MILITARY SATCOM (ARC-210) (23-27-00</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6900-00A2D-010A-A_000-00">
+    <dmtitle>MULTIFUNCTION INFORMATION DISTRIBUTION SYSTEM LOW
+VOLUME TERMINAL (LINK-16) (MIDS LVT) (23-28-00)-</dmtitle>
+    <dmtechname>MULTIFUNCTION INFORMATION DISTRIBUTION SYSTEM LOW
+VOLUME TERMINAL (LINK-16) (MIDS LVT) (23-28-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6900-01A2D-010A-A_000-00">
+    <dmtitle>INTEL BROADCAST RECEIVER SYSTEM (23-29-00)-</dmtitle>
+    <dmtechname>INTEL BROADCAST RECEIVER SYSTEM (23-29-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6900-02A2D-010A-A_000-00">
+    <dmtitle>CRYPTO MTU KY-100 (23-53-00)-</dmtitle>
+    <dmtechname>CRYPTO MTU KY-100 (23-53-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6900-03A2D-010A-A_000-00">
+    <dmtitle>SITUATION AWARENESS DATA LINK (23-57-00)-</dmtitle>
+    <dmtechname>SITUATION AWARENESS DATA LINK (23-57-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6900-04A2D-010A-A_000-00">
+    <dmtitle>STATIC DISCHARGERS (23-61-00)-</dmtitle>
+    <dmtechname>STATIC DISCHARGERS (23-61-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6900-05A2D-010A-A_000-00">
+    <dmtitle>NETWORK FILE SYSTEM (46-13-00)-</dmtitle>
+    <dmtechname>NETWORK FILE SYSTEM (46-13-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6900-06A2D-010A-A_000-00">
+    <dmtitle>MILITARY DATA NETWORK (MDN) (46-21-00)-</dmtitle>
+    <dmtechname>MILITARY DATA NETWORK (MDN) (46-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6900-07A2D-010A-A_000-00">
+    <dmtitle>TACTICAL SITUATIONAL AWARENESS SYSTEM (TSAS) (46-22-00)-</dmtitle>
+    <dmtechname>TACTICAL SITUATIONAL AWARENESS SYSTEM (TSAS) (46-22-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-6900-08A2D-010A-A_000-00">
+    <dmtitle>COMMUNICATION RELAY (23-99-00)-</dmtitle>
+    <dmtechname>COMMUNICATION RELAY (23-99-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7100-00A2D-010A-A_000-00">
+    <dmtitle>INSTRUMENT LANDING SYSTEM (ILS) (34-31-00)-</dmtitle>
+    <dmtechname>INSTRUMENT LANDING SYSTEM (ILS) (34-31-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7100-01A2D-010A-A_000-00">
+    <dmtitle>MARKER BEACON SYSTEM (34-32-00)-</dmtitle>
+    <dmtechname>MARKER BEACON SYSTEM (34-32-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7100-02A2D-010A-A_000-00">
+    <dmtitle>RADIO ALTIMETER SYSTEM (34-33-00)-</dmtitle>
+    <dmtechname>RADIO ALTIMETER SYSTEM (34-33-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7100-03A2D-010A-A_000-00">
+    <dmtitle>VHF OMNIDIRECTIONAL RANGE (VOR) SYSTEM (34-51-00)-</dmtitle>
+    <dmtechname>VHF OMNIDIRECTIONAL RANGE (VOR) SYSTEM (34-51-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7100-04A2D-010A-A_000-00">
+    <dmtitle>AIR TRAFFIC CONTROL (ATC) SYSTEM (34-53-00)-</dmtitle>
+    <dmtechname>AIR TRAFFIC CONTROL (ATC) SYSTEM (34-53-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7100-05A2D-010A-A_000-00">
+    <dmtitle>TACTICAL AIR NAVIGATION (TACAN) (34-54-00)-</dmtitle>
+    <dmtechname>TACTICAL AIR NAVIGATION (TACAN) (34-54-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7100-06A2D-010A-A_000-00">
+    <dmtitle>DISTANCE MEASURING EQUIPMENT (DME) SYSTEM (34-55-00)-</dmtitle>
+    <dmtechname>DISTANCE MEASURING EQUIPMENT (DME) SYSTEM (34-55-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7100-07A2D-010A-A_000-00">
+    <dmtitle>MILITARY GLOBAL POSITIONING SYSTEM (GPS) RECEIVER
+(34-56-00)-</dmtitle>
+    <dmtechname>MILITARY GLOBAL POSITIONING SYSTEM (GPS) RECEIVER
+(34-56-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7100-08A2D-010A-A_000-00">
+    <dmtitle>AUTOMATIC DIRECTION FINDER SYSTEM (34-57-00)-</dmtitle>
+    <dmtechname>AUTOMATIC DIRECTION FINDER SYSTEM (34-57-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7100-09A2D-010A-A_000-00">
+    <dmtitle>CIVIL GLOBAL POSITIONING SYSTEM (GPS) (34-58-00)-</dmtitle>
+    <dmtechname>CIVIL GLOBAL POSITIONING SYSTEM (GPS) (34-58-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7200-00A2D-010A-A_000-00">
+    <dmtitle>WEATHER RADAR SYSTEM (34-43-00)-</dmtitle>
+    <dmtechname>WEATHER RADAR SYSTEM (34-43-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7200-01A2D-010A-A_000-00">
+    <dmtitle>TERRAIN AND TRAFFIC ALERT AND COLLISION AVOIDANCE
+SYSTEM (T3CAS) (34-44-00)-</dmtitle>
+    <dmtechname>TERRAIN AND TRAFFIC ALERT AND COLLISION AVOIDANCE
+SYSTEM (T3CAS) (34-44-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7600-00A2D-010A-A_000-00">
+    <dmtitle>RADAR WARNING RECEIVER AN-ALR-69(V) (99-21-00)-</dmtitle>
+    <dmtechname>RADAR WARNING RECEIVER AN-ALR-69(V) (99-21-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-7600-01A2D-010A-A_000-00">
+    <dmtitle>LARGE AIRCRAFT INFRARED COUNTERMEASURES (LAIRCM)
+SYSTEM (99-11-00)-</dmtitle>
+    <dmtechname>LARGE AIRCRAFT INFRARED COUNTERMEASURES (LAIRCM)
+SYSTEM (99-11-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-9100-00A2D-010A-A_000-00">
+    <dmtitle>ESCAPE ROPES AND DESCENT DEVICES (25-61-00)-</dmtitle>
+    <dmtechname>ESCAPE ROPES AND DESCENT DEVICES (25-61-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-9100-01A2D-010A-A_000-00">
+    <dmtitle>OVERWATER SURVIVAL EQUIPMENT (25-62-00)-</dmtitle>
+    <dmtechname>OVERWATER SURVIVAL EQUIPMENT (25-62-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-9100-02A2D-010A-A_000-00">
+    <dmtitle>EMERGENCY SIGNALING EQUIPMENT (25-63-00)-</dmtitle>
+    <dmtechname>EMERGENCY SIGNALING EQUIPMENT (25-63-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-9100-03A2D-010A-A_000-00">
+    <dmtitle>DETACHABLE EMERGENCY EQUIPMENT (25-64-00)-</dmtitle>
+    <dmtechname>DETACHABLE EMERGENCY EQUIPMENT (25-64-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-9100-04A2D-010A-A_000-00">
+    <dmtitle>OFF-WING ESCAPE SYSTEM (25-65-00)-</dmtitle>
+    <dmtechname>OFF-WING ESCAPE SYSTEM (25-65-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+  <dmitem dmkey="1KC46-A-00-00-9100-05A2D-010A-A_000-00">
+    <dmtitle>DOOR-MOUNTED ESCAPE SYSTEM (25-66-00)-</dmtitle>
+    <dmtechname>DOOR-MOUNTED ESCAPE SYSTEM (25-66-00)</dmtechname>
+    <dminfoname>
+    </dminfoname>
+  </dmitem>
+</dmodule>
